@@ -1,0 +1,35 @@
+<svg width="202" height="193" viewBox="0 0 202 193" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="100.5" cy="103" r="43" fill="url(#paint0_linear_30_33934)"/>
+<g clip-path="url(#clip0_30_33934)">
+<path d="M99.8035 106.082L102.274 108.553L117.09 93.7371L119.564 96.2116L104.747 111.029C104.747 111.029 103.64 112.002 102.274 112.002C100.91 112.001 99.8035 111.031 99.8035 111.031L91.1375 102.365L93.612 99.8901L97.3307 103.609L99.8035 106.08V106.082ZM99.807 101.133L108.473 92.4648L110.94 94.9323L102.274 103.6L99.807 101.133ZM94.8598 111.029L93.274 112.615C93.274 112.615 92.8636 113.002 92.5 113.002C92.0101 113.002 91.5 112.615 91.5 112.615L81.25 102.365L83.7245 99.8901L86.1972 102.363L86.1955 102.365L94.8598 111.029Z" fill="white"/>
+</g>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 180.5 97)" fill="#F27129"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 186.5 146)" fill="#F27129" fill-opacity="0.2"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 153.5 54)" fill="#F27129"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 201.5 72)" fill="#F27129" fill-opacity="0.2"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 195.5 35)" fill="#F27129" fill-opacity="0.2"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 31.5 38)" fill="#F27129" fill-opacity="0.2"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 66.5 44)" fill="#F27129"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 41.5 128)" fill="#F27129"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 76.5 3)" fill="#F27129" fill-opacity="0.2"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 40.5 82)" fill="#F27129"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 65.5 158)" fill="#F27129"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 6.5 103)" fill="#F27129" fill-opacity="0.2"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 107.5 161)" fill="#F27129"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 110.5 187)" fill="#F27129" fill-opacity="0.2"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 52.5 179)" fill="#F27129" fill-opacity="0.2"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 155.5 131)" fill="#F27129"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 16.5 140)" fill="#F27129" fill-opacity="0.2"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 144.5 0)" fill="#F27129" fill-opacity="0.2"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 113.5 35)" fill="#F27129"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 150.5 167)" fill="#F27129"/>
+<defs>
+<linearGradient id="paint0_linear_30_33934" x1="100.5" y1="60" x2="100.5" y2="183.924" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F27129"/>
+<stop offset="1" stop-color="#A3410A"/>
+</linearGradient>
+<clipPath id="clip0_30_33934">
+<rect width="42" height="42" fill="white" transform="translate(79.5 82)"/>
+</clipPath>
+</defs>
+</svg>
